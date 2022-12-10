@@ -1,0 +1,111 @@
+.wrapper{
+    margin: 0 auto;
+    overflow: hidden;
+    border: 1px solid;
+    padding: 10px;
+    width: 90%;
+}
+.pullLeft{
+    float: left;
+}
+.openB{
+    pointer-events: all;
+    opacity: 1;
+}
+.closeB{
+    pointer-events: none;
+    opacity: 1;
+}
+.stleMargin{
+    margin: 0;
+    padding: 0;
+}
+.bodRight{
+    border-right: 1.5px solid #555;
+}
+.activeHotspot{
+    border: 2px solid #fff;
+}
+#audioBar audio{
+    border: 2px solid #1b4488;
+    border-radius: 30px;
+}
+.tabsBg{
+    background-color: #dbe8ff;
+    border: 1px solid #1b4488;
+}
+.tabs{
+    padding: 0;
+    margin-bottom: 0;
+}
+    .tabs li {
+    display: inline-block;
+    padding: 5px 8px 8px 8px;
+    border-top: solid 1px #ccc;
+    border-left: solid 1px #ccc;
+    border-right: solid 1px #ccc;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin-right: 4px;
+    font-size: 14px;
+    border: none;
+    border-radius: 0;
+    transition: background-color 0.5s ease;
+
+}
+.container div {
+    display: none;
+    transform: translateX(-20px);
+    transition: transform 0.5s ease;
+}
+.container div.active {
+    display: block;
+    transform: translateX(0);
+}
+.tabs li.active, .tabs li:hover {
+    background-color: #f2f2f2;
+}
+.tabs a.active {
+    display: block;
+    color: #555;
+}
+.tabs a {
+    padding: 0.5rem 0.75rem 0.2rem 0.75rem;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+}
+/***HotSpot Trigger ***/
+
+#hotspotBar.hotspots .hotspot {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+#hotspotBar.hotspots .hotspot .trigger {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    background:#1b4488;
+    color: #EEE6F0;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    pointer-events: all;
+    box-shadow: 0 0 0 0 #ff2255;
+    transition: box-shadow 0.4s;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
