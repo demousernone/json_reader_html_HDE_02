@@ -1,0 +1,218 @@
+{
+    "PageData":"<i class='fa fa-star'></i><b>Elizabeth in procession; c 1600 Van Dyck AQA GCSE Elizabeth era, painting</b>",
+    "Courses": [
+        {
+            "courseName": "History Source Bank",
+            "level": "Level Tags",
+            "subjectName": "Name1",
+            "courseDescription": "AQA"
+        },
+        {
+            "courseName": "Title of the course goes here with 2 lines avilable",
+            "subjectName": "Name2",
+            "level": "Level Tags",
+            "courseDescription": "Exam Board Tags"
+        },
+        {
+            "courseName": "Title of the course will go here",
+            "subjectName": "Name3",
+            "level": "Level Tags",
+            "courseDescription": "Exam Board Tags"
+        }
+    ],
+    "ContentList": [
+        {
+            "resourceName": "Elizabethan Era",
+            "resourceDetails": [
+                {
+                    "courseName": "Elizabeth in procession c.1600 van Dyck",
+                    "paintingEnabled": "Painting"
+                },
+                {
+                    "courseName": "Elizabeth in procession Chember c.1600 Van",
+                    "paintingEnabled": "Painting"
+                }
+            ]
+        },
+        {
+            "resourceName": "Middle Ages",
+            "resourceDetails": [
+                {
+                    "courseName": "Middle Ages Name 1",
+                    "paintingEnabled": "NA"
+                },
+                {
+                    "courseName": "Middle Ages Name 2",
+                    "paintingEnabled": "NA"
+                }
+            ]
+        },
+        {
+            "resourceName": "The Tudors",
+            "resourceDetails": [
+                {
+                    "courseName": "Tudors Name 1",
+                    "paintingEnabled": "NA"
+                },
+                {
+                    "courseName": "Tudors Name 2",
+                    "paintingEnabled": "NA"
+                }
+            ]
+        },
+        {
+            "resourceName": "The Regency Years",
+            "resourceDetails": [
+                {
+                    "courseName": "Regency Years 1",
+                    "paintingEnabled": "NA"
+                },
+                {
+                    "courseName": "Regency Years 2",
+                    "paintingEnabled": "NA"
+                }
+            ]
+        },
+        {
+            "resourceName": "The Victoria Era",
+            "resourceDetails": [
+                {
+                    "courseName": "Victoria Era 1",
+                    "paintingEnabled": "NA"
+                },
+                {
+                    "courseName": "Victoria Era  2",
+                    "paintingEnabled": "NA"
+                }
+            ]
+        },
+        {
+            "resourceName": "20th Century",
+            "resourceDetails": [
+                {
+                    "courseName": "Century 1",
+                    "paintingEnabled": "NA"
+                },
+                {
+                    "courseName": "Century 2",
+                    "paintingEnabled": "NA"
+                }
+            ]
+        }
+    ],
+    "TableSet": [
+        {
+            "firstName": "kaushik",
+            "lastName": "Dey",
+            "roll": "ID-123",
+            "email": "kaushikdey1984@yahoo.cm"
+        },
+        {
+            "firstName": "Rajesh",
+            "lastName": "Das",
+            "roll": "ID-124",
+            "email": "das@yahoo.cm"
+        },
+        {
+            "firstName": "Rajesh",
+            "lastName": "D",
+            "roll": "ID-125",
+            "email": "das1@yahoo.cm"
+        },
+        {
+            "firstName": "Rajesh2222",
+            "lastName": "D",
+            "roll": "ID-125",
+            "email": "das1@yahoo.cm"
+        }
+    ],
+    "ButtonSet": [
+        {
+            "buttonName": "Big-Button",
+            "buttonColor": "red"
+        },
+        {
+            "buttonName": "Small-Button",
+            "buttonColor": "yellow"
+        },
+        {
+            "buttonName": "large-Button",
+            "buttonColor": "purple"
+        },
+        {
+            "buttonName": "large1-Button",
+            "buttonColor": "black"
+        }
+    ],
+    "TabList": [
+        {
+            "tabName": "Learn",
+            "tabContent": "<img src='/assets/image/img1.jpg' alt='img1' style='width:100%' />",
+            "tabEnabled":"yes"
+        },
+        {
+            "tabName": "Check",
+            "tabContent": "<p>No Content Availabe Here for Check.</p>",
+            "tabEnabled":"no"
+        },
+        {
+            "tabName": "Analysis & Interpret",
+            "tabContent": "<p>No Content Availabe Here for Analysis & Interpret.</p>",
+            "tabEnabled":"no"
+        },
+        {
+            "tabName": "practise",
+            "tabContent": "<p>No Content Availabe Here for practise .</p>",
+            "tabEnabled":"no"
+        }
+    ],
+    "hotspots":[
+        {
+            "imagename":"fa fa-camera",
+            "top":25,
+            "left":10,
+            "title":"camera",
+            "active":0,
+            "content":"<b>What is this?</b><p>This painting shows Elizabeth depicted on progress in c1600.She is shown with key members of the court Elizabeth was famous for her royal progress</p>",
+            "audioPlayer":""
+        },
+        {
+            "imagename":"fa fa-pencil",
+            "top":25,
+            "left":18,
+            "title":"pencil",
+            "active":0,
+            "content":"<b>Question?</b><p>Why do you think Elizabeth decided to go on progress so often during her region?</p>",
+            "audioPlayer":""
+        },
+        {
+            "imagename":"fa fa-question-circle",
+            "top":25,
+            "left":26,
+            "title":"question-circle",
+            "active":0,
+            "content":"<b>What is progress?</b><p>Most summers, Elizabeth would travel with her Court om tours called Progresses, visting the homes of the nobility.</p>",
+            "audioPlayer":""
+        },
+        {
+            "imagename":"fa fa-sticky-note-o",
+            "top":25,
+            "left":50,
+            "title":"sticky-note",
+            "active":0,
+            "content":"<b>Discussion</b><p>Here we can see Elizabeth's capacity, adorned with rich fabrics and jewels.</p>",
+            "audioPlayer":"<audio controls><source src='horse.ogg' type='audio/ogg'><source src='/assets/sound/sound-2.wav' type='audio/mpeg'>Your browser does not support the audio element.</audio>"
+        },
+        {
+            "imagename":"fa fa-headphones",
+            "top":80,
+            "left":50,
+            "title":"headphones",
+            "active":0,
+            "content":"<b>Sound Recording</b><p>This is only a prototype,so we don't have any real audio.But in the real world you must click play to listen</p>",
+            "audioPlayer":"<audio controls><source src='horse.ogg' type='audio/ogg'><source src='/assets/sound/sound-1.wav' type='audio/mpeg'>Your browser does not support the audio element.</audio>"
+        }
+        
+        
+    ]
+}
